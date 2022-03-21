@@ -1,0 +1,142 @@
+
+    .header-div-profil{
+
+        display: inline-block;
+         width: 100px;
+         border-radius: 100%;
+         border: 1px solid white;
+         margin-top: 450px;
+         margin-left: 840px;
+     }
+     .header-div-yazi{
+
+         position: absolute;
+         display: inline-block;
+         margin: 250px;
+         margin-left: 200px;
+         font-size: 36px;
+         font-family:'Source Sans Pro','sans-serif';
+         color: white;
+         
+         
+     }
+     .header-div-yazi2{
+
+         position: absolute;
+         display: inline-block;
+         margin-top: 560px;
+         margin-left: 840px;
+         font-size: 18px;
+         font-family:'Source Sans Pro','sans-serif';
+         font-weight: bold;
+         color: rgb(51, 51, 51);
+         padding-bottom: 20px;   
+     }
+     
+     .header-div-yazi3{
+
+         position: absolute;
+         display: inline-block;
+         margin-top: 585px;
+         margin-left: 795px;
+         line-height: 24px;
+         font-size: 18px;
+         font-family:'Source Sans Pro','sans-serif';
+         font-style: italic;
+         color: rgb(51, 51, 51);
+         padding-bottom: 20px;
+     }
+
+     .p-hr{
+
+        margin-left: 375px; 
+        margin-top: 115px;
+     }
+     
+ section{
+     
+    width: 66.67%;
+    height: 100%;
+    margin: 0px;
+   padding-left: 410.5px;
+}
+
+.main-p{
+
+    font-family:'Source Sans Pro','sans-serif';
+    font-size: 18px;
+    line-height: 32px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 32px;
+    color: rgb(51, 51, 51);
+}
+.main-baslık-1{
+    
+    font-family: 'Roboto Slab','serif'  ;
+    font-size: 36px;
+    font-weight: normal;
+    margin-top: 60px;
+    margin-bottom: 10px;
+    margin-left: 0px;
+    color: rgb(51, 51, 51);
+}
+.main-baslık{
+    
+    font-family: 'Roboto Slab','serif';
+    font-size: 36px;
+    font-weight: normal;
+    margin: 0px;
+    margin-bottom: 10px;
+    color: rgb(51, 51, 51);
+}
+p.main-baslık::first-letter{
+
+    color: rgba(0, 0, 0, 0.25);
+}
+p.main-baslık-1::first-letter{
+
+    color: rgba(0, 0, 0, 0.25);
+}
+.main-oneri{
+    
+    font-family:'Source Sans Pro','sans-serif';
+    font-weight: bold;
+    font-size: 18px;
+    padding-left: 32px;
+    margin: 0px;
+}
+.img-resim{
+    
+    margin-top: 20px;
+    margin-bottom: 120px;
+    margin-left: 32px;
+    background-size: cover;
+    background-position: top;
+    height: 500px;
+}
+
+a{
+
+    color: #42b4d6;
+    text-decoration: none;
+    margin-left: 35px;
+}
+a:hover{
+
+    text-decoration: underline;
+}
+nav{
+
+    padding-top: 0px;
+}
+ header {
+        
+        background-image: linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)), url(images/header.jpg);
+         height: 500px;
+         width: 124.5%;
+         background-position: top;
+         background-repeat: no-repeat; 
+         background-size: cover;
+     }
+     
